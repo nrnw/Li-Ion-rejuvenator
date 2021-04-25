@@ -1,4 +1,4 @@
-#Hybrid vehicle battery charger with automated battery charging and discharging cycles to enhance the battery cell performance. 
+# Hybrid vehicle battery charger with automated battery charging and discharging cycles to enhance the battery cell performance. 
 
 
 Motivation
