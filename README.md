@@ -27,7 +27,16 @@ Charging=OFF, Discharging=ON
 Discharging_current= f(cell_voltage,current_drawn,cell_temperatue)
 Discharging_on= cell_voltage > threshold_voltage
 
-Hybrid battery pack
+## Prototype implementation
+
+For the prototyping development Arduino UNO evaluation board will be used. It is expected to use 6 analog pins for measuring the voltage of batteries while charging progresses.
+
+
+## References
+
+
+[1] https://www.psi.ch/media/memory-effect-now-also-found-in-lithium-ion-batteries
+
 
 
 
